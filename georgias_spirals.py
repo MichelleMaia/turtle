@@ -1,7 +1,7 @@
 ##########################################################################
 # Author: Michelle Maia
 # https://www.michellemaia.com
-# Project: Turtle exploring
+# Project: Exploring Turtle - Python
 # Date: 08/23/2020
 # Source 1: https://docs.python.org/3/library/turtle.html#module-turtle
 # Source 2: https://www.101computing.net/python-turtle-wordart-challenge/
