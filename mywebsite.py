@@ -2,7 +2,7 @@
 # Author: Michelle Maia
 # https://www.michellemaia.com
 # https://www.youtube.com/user/MichelleAVCavalcanti
-# Project: Exploring Turtle
+# Project: Exploring Turtle - Python
 # Date: 08/23/2020
 # Description: It shows some experiments with turtle module, like drawing
 # some alphabet letters, changing a turtle to a gif image and drawing a bunch
